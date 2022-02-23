@@ -8,3 +8,10 @@ body{
     padding: 0em;
     font-family:'Times New Roman', Times, serif;
 }
+
+@media(max-width: 800px) {
+    body{
+
+        width: auto;
+    }
+}

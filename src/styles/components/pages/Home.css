@@ -44,3 +44,11 @@
 .letrauno{
     text-align: center;
 }
+@media(max-width: 800px) {
+    .all{
+        width: 100%;
+        height: auto;
+        padding-left: 0em;
+        padding-right: 0em;
+    }
+}

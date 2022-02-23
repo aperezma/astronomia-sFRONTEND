@@ -34,3 +34,22 @@ select{
     background-color: white;
     cursor: pointer;
 }
+
+@media(max-width: 800px) {
+    .all{
+        width: 100%;
+        height: auto;
+        padding-left: 0em;
+        padding-right: 0em;
+    }
+    select{
+        width: 100%;
+        padding-right: 0em;
+    }
+    form{
+        padding-right: 0em;
+        margin: 0em;
+        width: 100%;
+        border: 0em;
+    }
+}

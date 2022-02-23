@@ -12,3 +12,18 @@ main{
     padding: 2em;
     padding-bottom: 3em;
 }
+
+@media(max-width: 800px) {
+    .contenedor{
+        width: 100%;
+        height: auto;
+        padding-left: 0em;
+        padding-right: 0em;
+    }
+    .jeje{
+        width: 100%;
+    }
+    main{
+        width: 100%;
+    }
+}
