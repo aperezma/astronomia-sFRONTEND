@@ -52,8 +52,9 @@
         padding-right: 0em;
     }
     #navedespegue1{
-        margin-left: auto;
-        margin-right: auto;
+        width: 10%;
+        margin-left: 45%;
+        margin-right: 45%;
     }
     .navecita{
         width: 100%;
