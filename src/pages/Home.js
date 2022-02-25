@@ -20,16 +20,19 @@ const HomePage = (props) => {
             </ul>
             <br/>
             <p>Ahora que conoces nuestros nombres y leiste un poco sobre el proyecto, te invitamos a que descubras la belleza de nuestro universo, esperemos que este viaje espacial te emocione y te llene de dudas y curiosidad que puedan ser saciadas cada vez que pases por nuestras pagina web.</p>
+            <div className="navecita">
             <p className="letrauno">3... 2... 1...</p>
             <h3 className="letrauno">¡DESPEGUE!</h3>
             <img src="imagenes/navedespegue.gif" alt="" id="navedespegue1"/>
+            </div>
+            
         </div>
         <br/>
         <div className="uno">
             <h3>Primera parada espacial... Introductoria</h3>
             <p>El universo es enorme y apenas conocemos una pequeña parte de este. Pensando en esto podemos ver y darnos cuenta de lo pequeños que somos todos.</p>
             <p>Todos conocemos nuestro sistema solar. Sabemos que esta formado por 8 planetas y varios planetas enanos, entre ellos Pluton. </p>
-            <img src="imagenes/sistemasolar.webp" alt="" />
+            <img src="imagenes/sistemasolar.webp" className= "sistsolar" alt="" />
             <p>En la imagen podemos distinguir que cada planeta es diferente al otro, desde tamaño, tonalidades, o incluso algunos tienen algun otro tipo de razgo, como por ejemplo Jupiter y sus anillos. Cada planeta de nuestro sistema es hermoso y tiene caracteristicas increibles. Podemos conocerlas y descubrirlas poco a poco en cada uno de nuestros articulos.</p>
             <p>Por ahora vamos a repazar con el orden de nuestros planetas queridos del sistema solar.</p>
             <ul>

@@ -51,4 +51,11 @@
         padding-left: 0em;
         padding-right: 0em;
     }
+    .navecita{
+        width: 100%;
+        align-items: center;
+    }
+    .sistsolar{
+        width: 100%;
+    }
 }
